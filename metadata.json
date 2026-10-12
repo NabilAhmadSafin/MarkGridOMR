@@ -1,0 +1,6 @@
+{
+  "name": "MarkGrid — Optical OMR Sheet & Instant Grader",
+  "description": "Interactive OMR bubble sheet generator and instant grader with rapid numpad entry (1-5), manual OMR answer key filling, green/red visual answer verification, and offline IndexedDB storage with JSON/CSV import and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
